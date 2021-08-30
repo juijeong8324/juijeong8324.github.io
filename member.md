@@ -2,19 +2,21 @@
 layout: page
 permalink: /members/
 title: MEMBER
-description: 여기 의정이가 멤버 소개 만들기로 했다~! 이부분은 page.html에서 가져오는 거라 손안대도 돼!
+
 ---
 <html>
   <head>
     <meta charset="utf-8" />
-    <link href="css/member.css" rel="stylesheet" />
+    <link href="css/member.css?ver=1" rel="stylesheet" type="text/css"/>
   </head>
   <body>
         <div class="container">
             <p>Coding is <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
          </div>
 
-<script type="text/javascript" src="js/member.js"></script>
+         
+
+<script type="text/javascript" src="js/member.js?ver=1"></script>
 
   </body>
 </html> 
