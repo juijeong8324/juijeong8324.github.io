@@ -4,20 +4,22 @@ permalink: /members/
 title: MEMBER
 
 ---
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <link href="css/member.css?ver=1" rel="stylesheet" type="text/css"/>
-  </head>
-  <body>
-        <div class="container">
-            <p>Coding is <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
-         </div>
 
-         
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="css/member.css">
 
-<script type="text/javascript" src="js/member.js?ver=1"></script>
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="container">
+    <p>WE ARE <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
+  </div>
+<!-- partial -->
+  <script  src="js/member.js"></script>
 
-  </body>
-</html> 
+</body>
+</html>
  
