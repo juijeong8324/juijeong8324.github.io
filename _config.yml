@@ -3,9 +3,9 @@ title: GDSC Seoultech
 email: twinklesu914@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
-baseurl: /juijeong8324  # the subpath of your site, e.g. /blog/
-url: juijeong8324.github.io # the base hostname & protocol for your site
-github_username: juijeong8324
+baseurl:  # the subpath of your site, e.g. /blog/
+url: twinklesu.github.io # the base hostname & protocol for your site
+github_username: twinklesu
 
 # Build settings
 markdown: kramdown
