@@ -13,11 +13,10 @@ title: MEMBER
 
 </head>
 <body>
-<!-- partial:index.partial.html -->
 <div class="container">
     <p>WE ARE <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
   </div>
-<!-- partial -->
+
   <script  src="js/member.js"></script>
 
 </body>
