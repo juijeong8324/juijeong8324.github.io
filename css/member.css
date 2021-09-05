@@ -3,7 +3,7 @@
 * { 
   margin: 0;
   padding: 0;
-  /*box-sizing: border-box; */
+  box-sizing: border-box; 
 }
 body {
   background-color: #ffffff;
@@ -23,7 +23,7 @@ body {
   font-weight: bold;
   letter-spacing: 0.1rem;
   text-align: center;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 .container p span.typed-text {
   font-weight: normal;
