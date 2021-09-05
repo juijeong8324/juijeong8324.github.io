@@ -1,17 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat'); 
 
-* {
+* { 
+  font-family: 'Montserrat', sans-serif; /*font는 container에만 적용하도록*/ 
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 body {
   background-color: #ffffff;
+  color:rgb(0, 0, 0);
   margin: 0;
   padding: 0;
 }
 .container {
-  font-family: 'Montserrat', sans-serif; /*font는 container에만 적용하도록*/ 
+ 
   height: 150vh;
   display: flex; /*item들이 가로방향으로 배치되고 자신이 가진 내용물의 width 만큼 차지*/
   justify-content: center; /*수평 축의 방향으로 가운데 정렬*/
