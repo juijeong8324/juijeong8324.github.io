@@ -3,16 +3,16 @@
 * { 
   margin: 0;
   padding: 0;
-  box-sizing: border-box; 
+  /*box-sizing: border-box; */
 }
 body {
   background-color: #ffffff;
   color:rgb(0, 0, 0);
-  font-family: 'Montserrat', sans-serif; /*font는 container에만 적용하도록*/ 
-}
-.container {
  
-  height: 150vh;
+}
+.container { 
+  font-family: 'Montserrat', sans-serif; /*font는 container에만 적용하도록*/ 
+  height: 10vh;
   display: flex; /*item들이 가로방향으로 배치되고 자신이 가진 내용물의 width 만큼 차지*/
   justify-content: center; /*수평 축의 방향으로 가운데 정렬*/
   align-items: center; /*수직축 방향으로도 가운데 정렬*/
@@ -23,7 +23,7 @@ body {
   font-weight: bold;
   letter-spacing: 0.1rem;
   text-align: center;
-  /*overflow: hidden;*/
+  overflow: hidden;
 }
 .container p span.typed-text {
   font-weight: normal;
