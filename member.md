@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /members/
-title: MEMBER
-
 ---
 
 <head>
