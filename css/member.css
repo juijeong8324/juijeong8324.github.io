@@ -1,21 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat'); 
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-* { 
+* {
   margin: 0;
   padding: 0;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 body {
+  font-family: 'Montserrat', sans-serif;
   background-color: #000;
-  color:#676c72;
- 
+  color: #eee;
 }
-.container { 
-  font-family: 'Montserrat', sans-serif; /*font는 container에만 적용하도록*/ 
-  height: 30vh;
-  display: flex; /*item들이 가로방향으로 배치되고 자신이 가진 내용물의 width 만큼 차지*/
-  justify-content: center; /*수평 축의 방향으로 가운데 정렬*/
-  align-items: center; /*수직축 방향으로도 가운데 정렬*/
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .container p {
   font-size: 3rem;
@@ -27,13 +26,13 @@ body {
 }
 .container p span.typed-text {
   font-weight: normal;
-  color: #db3236;
+  color: #dd7732;
 }
 .container p span.cursor {
   display: inline-block;
-  background-color:#ccc;
+  background-color: #ccc;
   margin-left: 0.1rem;
-  width: 10px; 
+  width: 3px;
   animation: blink 1s infinite;
 }
 .container p span.cursor.typing {
