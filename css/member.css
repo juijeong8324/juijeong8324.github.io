@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+* { /*전체 선택자*/
+  margin-top: 0px;
+  height:auto;
+  padding: 0px;
 }
 body {
   
-  background-color: #000;
-  color: #eee;
+  background-color: #000; /* 전체 배경 색깔 == 흰색으로 해야 함*/
+  color: #eee; /*전체 글자 색깔*/
 }
 .container {
   font-family: 'Montserrat', sans-serif;
@@ -20,18 +20,18 @@ body {
 .container p {
   font-size: 3rem;
   padding: 0.5rem;
-  font-weight: bold;
-  letter-spacing: 0.1rem;
+  font-weight: bold; /*폰트 두껍게*/
+  letter-spacing: 0.1rem; /*글자 간 간격*/
   text-align: center;
   overflow: hidden;
 }
 .container p span.typed-text {
-  font-weight: normal;
-  color: #dd7732;
+  font-weight: bold; /*폰트 두껍게*/
+  color: #db3236;
 }
 .container p span.cursor {
   display: inline-block;
-  background-color: #ccc;
+  background-color: #ccc; /*커서 색깔*/
   margin-left: 0.1rem;
   width: 3px;
   animation: blink 1s infinite;
@@ -39,7 +39,7 @@ body {
 .container p span.cursor.typing {
   animation: none;
 }
-@keyframes blink {
+@keyframes blink { /*커서 색깔 바꾸려면 얘네도 같이 바꿔야 할 듯 */
   0%  { background-color: #ccc; }
   49% { background-color: #ccc; }
   50% { background-color: transparent; }
