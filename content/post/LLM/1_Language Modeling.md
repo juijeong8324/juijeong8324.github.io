@@ -1,13 +1,13 @@
 ---
 title: Language Modeling
 description: 본 글은 cs224n를 정리하였습니다. 
-slug: llm
+slug: nlp
 date: 2025-06-21 14:10:00+0900
 categories:
-    - LLM
+    - NLP
 tags:
-    - LLM
-    - AI
+    - NLP
+    - Deep Learning
 weight: 1  # You can add weight to some posts to override the default sorting (date descending)
 ---
 

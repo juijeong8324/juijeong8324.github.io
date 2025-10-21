@@ -1,5 +1,5 @@
 ---
-title: LLM
+title: NLP
 description: A description of this category
 image:
 

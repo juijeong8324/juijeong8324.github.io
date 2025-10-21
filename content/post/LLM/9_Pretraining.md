@@ -1,13 +1,13 @@
 ---
 title: Pretraining
 description: 본 글은 cs224n를 정리하였습니다. 
-slug: llm
+slug: nlp
 date: 2025-07-06 19:14:00+0900
 categories:
-    - LLM
+    - NLP
 tags:
-    - LLM
-    - AI
+    - NLP
+    - Deep Learning
 weight: 1  # You can add weight to some posts to override the default sorting (date descending)
 ---
 ### 1\. Subword modeling 간단하게 알아보기 
