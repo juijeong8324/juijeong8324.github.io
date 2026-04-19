@@ -2,35 +2,27 @@
 toc = true
 # the avatar on sidebar, should be a relative path to /assets.
 avatar = "img/commons/avatar.jpg"
-author = "yifan"
+author = "DDubi"
 
 [assets]
   # Self-hosted static assets, default to false. If true, the assets will be hosted on your own server.
   self_host = false
 
 [social]
-  name = "Yifan"
-  url = "https://github.com/geekifan"
+  name = "DDubi"
+  url = "https://github.com/juijeong8324"
 
 [[social.links]]
   type = "github"
-  id = "yourusername"
+  id = "juijeong8324"
   icon = "fab fa-github"
 
-[[social.links]]
-  type = "twitter"
-  id = "yourhandle"
-  icon = "fab fa-twitter"
 
 [[social.links]]
   type = "email"
-  id = "your.email@example.com"
+  id = "juijeong8324@example.com"
   icon = "fas fa-envelope"
 
-[[social.links]]
-  type = "rss"
-  icon = "fas fa-rss"
-  noblank = true  # will not open in new window
 
 [comments]
 # Global switch for the post-comment system. [true | false]

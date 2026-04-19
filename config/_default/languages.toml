@@ -2,14 +2,14 @@
   languageName = "English"
   languageCode = "en"
   weight = 2
-  title = "Chirpy"
+  title = "LetsGoDDubi"
   [en.params]
-    tagline = "A text-focused blog theme"
+    tagline = "Just Do It"
 
-[zh-CN]
-  languageName = "中文"
-  languageCode = "zh-CN"
+[ko]
+  languageName = "Korean"
+  languageCode = "ko"
   weight = 1
-  title = "Chirpy"
-  [zh-CN.params]
-    tagline = "一个专注于文本的博客主题"
+  title = "LetsGoDDubi"
+  [ko.params]
+    tagline = "Just Do It"
