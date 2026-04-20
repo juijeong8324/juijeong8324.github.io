@@ -1,3 +1,11 @@
+[ko]
+  languageName = "Korean"
+  languageCode = "ko"
+  weight = 1
+  title = "LetsGoDDubi"
+  [ko.params]
+    tagline = "Just Do It"
+
 [en]
   languageName = "English"
   languageCode = "en"
@@ -6,10 +14,3 @@
   [en.params]
     tagline = "Just Do It"
 
-[ko]
-  languageName = "Korean"
-  languageCode = "ko"
-  weight = 1
-  title = "LetsGoDDubi"
-  [ko.params]
-    tagline = "Just Do It"
