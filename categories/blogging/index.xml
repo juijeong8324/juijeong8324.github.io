@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blogging on LetsGoDDubi</title><link>https://juijeong8324.github.io/categories/blogging/</link><description>Recent content in Blogging on LetsGoDDubi</description><generator>Hugo</generator><language>ko</language><lastBuildDate>Thu, 08 Aug 2019 11:33:00 +0800</lastBuildDate><atom:link href="https://juijeong8324.github.io/categories/blogging/index.xml" rel="self" type="application/rss+xml"/><item><title>Text and Typography</title><link>https://juijeong8324.github.io/post/test/</link><pubDate>Thu, 08 Aug 2019 11:33:00 +0800</pubDate><guid>https://juijeong8324.github.io/post/test/</guid><description>&lt;h2 id="headings" id=headings&gt;
+ 
+ &lt;span class="me-2"&gt;Headings&lt;/span&gt;
+ &lt;a href="#headings" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;!-- markdownlint-capture --&gt;
+&lt;!-- markdownlint-disable --&gt;
+&lt;h1 id="h1--heading" class=mt-4 mb-0 data-toc-skip=true id=h1--heading&gt;
+ H1 — heading
+&lt;/h1&gt;&lt;h2 id="h2--heading" class=mt-4 mb-0 data-toc-skip=true id=h2--heading&gt;
+ H2 — heading
+&lt;/h2&gt;&lt;h3 id="h3--heading" class=mt-4 mb-0 data-toc-skip=true id=h3--heading&gt;
+ H3 — heading
+&lt;/h3&gt;&lt;h4 id="h4--heading" class=mt-4 data-toc-skip=true id=h4--heading&gt;
+ H4 — heading
+&lt;/h4&gt;&lt;!-- markdownlint-restore --&gt;
+&lt;h2 id="paragraph" id=paragraph&gt;
+ 
+ &lt;span class="me-2"&gt;Paragraph&lt;/span&gt;
+ &lt;a href="#paragraph" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas interdum malesuada egestas. Duis consectetur porta risus, sit amet vulputate urna facilisis ac. Phasellus semper dui non purus ultrices sodales. Aliquam ante lorem, ornare a feugiat ac, finibus nec mauris. Vivamus ut tristique nisi. Sed vel leo vulputate, efficitur risus non, posuere mi. Nullam tincidunt bibendum rutrum. Proin commodo ornare sapien. Vivamus interdum diam sed sapien blandit, sit amet aliquam risus mattis. Nullam arcu turpis, mollis quis laoreet at, placerat id nibh. Suspendisse venenatis eros eros.&lt;/p&gt;</description></item></channel></rss>
