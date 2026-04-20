@@ -5,12 +5,3 @@
   title = "LetsGoDDubi"
   [ko.params]
     tagline = "Just Do It"
-
-[en]
-  languageName = "English"
-  languageCode = "en"
-  weight = 2
-  title = "LetsGoDDubi"
-  [en.params]
-    tagline = "Just Do It"
-
