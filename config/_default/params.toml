@@ -17,7 +17,6 @@ author = "uijeong"
   id = "juijeong8324"
   icon = "fab fa-github"
 
-
 [[social.links]]
   type = "email"
   id = "juijeong8324@gmail.com"
@@ -25,7 +24,7 @@ author = "uijeong"
 
 [[social.links]]
   type = "linkedin"
-  id = "jeon01"
+  url = "https://linkedin.com/in/jeon01"
   icon = "fab fa-linkedin-in"
 
 
